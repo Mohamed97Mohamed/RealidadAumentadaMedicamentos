@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/ComputerVision/Scenes/MainLoginScene.unity
+    guid: d27ddbc69a748be47b9a51f05ef29223
+  - enabled: 1
+    path: Assets/ComputerVision/Scenes/RegisterScene.unity
+    guid: ce191b8567894c6408dc5a4bad35b6a9
+  - enabled: 1
+    path: Assets/ComputerVision/Scenes/AlergiasScene.unity
+    guid: 7625a32d6bbdd644f88c41d37b6b7f28
+  - enabled: 1
+    path: Assets/ComputerVision/Scenes/InformacionScene.unity
+    guid: a6e2a498ecbf973409027699afdf8a40
+  - enabled: 1
+    path: Assets/ComputerVision/Scenes/InteraccionScene.unity
+    guid: 445e6fea12107a1489642ab606e52e86
+  m_configObjects: {}
